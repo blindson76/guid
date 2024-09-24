@@ -1,0 +1,37 @@
+{
+  "origin": {
+    "lon": 30.27075,
+    "lat": 41.241667
+  },
+  "zoom": 12.0173,
+  "platform": {
+    "kinematics": {
+      "course": 165,
+      "speed": 5,
+      "turnRate": 5,
+      "acceleration": 5
+    },
+    "wpn": {
+      "reba": 300,
+      "speed": 20,
+      "length": 40,
+      "lateralOffset"
+    }
+  },
+  "entities": [
+    {
+      "name": "drt1",
+      "kind": "",
+      "kinematics": {
+        "course": 120,
+        "speed": 10,
+        "turnRate": 15,
+        "acceleration": 5
+      },
+      "position": {
+        "bearing": 5,
+        "range": 5
+      }
+    }
+  ]
+}
